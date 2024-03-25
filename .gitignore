@@ -2,6 +2,7 @@
 data/tiles/*.png
 data/viersen_example_tiles/*.png
 data/coords/*.pickle
+data/nrw_rooftop_data/
 data/rooftop_data/*.geojson
 data/pv_database/*.csv
 data/pv_registry/*.geojson
