@@ -6,15 +6,15 @@ bing_key:
 
 # -------- Area of interest --------
 # Specify the county for which you would like to run the analysis. Feel free to replace "Essen" by any other name from the list of available counties.
-county4analysis: Viersen
+county4analysis: Leverkusen
 
 # -------- Pipeline --------
 # Which part of the pipeline do you want to execute?
-run_tile_creator: 1
+run_tile_creator: 0
 
-run_tile_downloader: 1
+run_tile_downloader: 0
 
-run_tile_processor: 1
+run_tile_processor: 0
 
 run_tile_coords_updater: 0
 

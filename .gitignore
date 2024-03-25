@@ -12,4 +12,4 @@ models/segmentation/deeplabv3_weights.tar
 *.pyc
 __pycache__
 .idea
-
+notes.md
